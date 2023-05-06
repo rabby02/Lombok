@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-05T23:50:59 EDT" name="Default suite" finished-at="2023-05-05T23:54:01 EDT" duration-ms="182725">
+    <groups>
+    </groups>
+    <test started-at="2023-05-05T23:50:59 EDT" name="Default test" finished-at="2023-05-05T23:54:01 EDT" duration-ms="182725">
+      <class name="Qa.testCases.HomepageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:Qa.testCases.HomepageTest@794cb805]" started-at="2023-05-05T23:50:59 EDT" name="SetUp" finished-at="2023-05-05T23:52:55 EDT" duration-ms="115335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="LogoDisplayOfsites()[pri:1, instance:Qa.testCases.HomepageTest@794cb805]" started-at="2023-05-05T23:52:55 EDT" name="LogoDisplayOfsites" finished-at="2023-05-05T23:52:55 EDT" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoDisplayOfsites -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Qa.testCases.HomepageTest@794cb805]" started-at="2023-05-05T23:52:55 EDT" name="TearDown" finished-at="2023-05-05T23:53:04 EDT" duration-ms="8897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:Qa.testCases.HomepageTest@794cb805]" started-at="2023-05-05T23:53:04 EDT" name="SetUp" finished-at="2023-05-05T23:53:21 EDT" duration-ms="17119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="VerifyPriceTag()[pri:2, instance:Qa.testCases.HomepageTest@794cb805]" started-at="2023-05-05T23:53:21 EDT" name="VerifyPriceTag" finished-at="2023-05-05T23:53:22 EDT" duration-ms="721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyPriceTag -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Qa.testCases.HomepageTest@794cb805]" started-at="2023-05-05T23:53:22 EDT" name="TearDown" finished-at="2023-05-05T23:53:23 EDT" duration-ms="1093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:Qa.testCases.HomepageTest@794cb805]" started-at="2023-05-05T23:53:23 EDT" name="SetUp" finished-at="2023-05-05T23:53:39 EDT" duration-ms="16587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="PrecautionText()[pri:3, instance:Qa.testCases.HomepageTest@794cb805]" started-at="2023-05-05T23:53:39 EDT" name="PrecautionText" finished-at="2023-05-05T23:53:39 EDT" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrecautionText -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Qa.testCases.HomepageTest@794cb805]" started-at="2023-05-05T23:53:39 EDT" name="TearDown" finished-at="2023-05-05T23:53:40 EDT" duration-ms="997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:Qa.testCases.HomepageTest@794cb805]" started-at="2023-05-05T23:53:40 EDT" name="SetUp" finished-at="2023-05-05T23:54:00 EDT" duration-ms="20091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="ClickOperate()[pri:4, instance:Qa.testCases.HomepageTest@794cb805]" started-at="2023-05-05T23:54:00 EDT" name="ClickOperate" finished-at="2023-05-05T23:54:00 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOperate -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:Qa.testCases.HomepageTest@794cb805]" started-at="2023-05-05T23:54:00 EDT" name="TearDown" finished-at="2023-05-05T23:54:01 EDT" duration-ms="791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- Qa.testCases.HomepageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
